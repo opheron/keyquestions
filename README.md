@@ -1,2 +1,3 @@
 # keyquestions
-A conversation questions app
+
+A conversation questions app built on Django.
